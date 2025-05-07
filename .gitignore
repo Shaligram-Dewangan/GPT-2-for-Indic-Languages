@@ -1,0 +1,7 @@
+**/__pycache__/
+
+/data/datasets
+/tokenizer/data_1B.txt
+
+/logs/**/checkpoints/
+
