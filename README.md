@@ -5,7 +5,7 @@ I trained a `GPT-2-124M` sized Language Model on 20 Billion tokens from English 
 I am open-sourcing the the training code, model, training dataset and evaluation.
 
 <p align="center" width="100%">
-      <img src="assets/evaluation_plot.png" alt="Evaluation Plots" style="width: 90%; min-width: 200px; display: block; margin: auto;">
+      <img src="assets/evaluation_plot.png" alt="Evaluation Plots" style="width: 100%; min-width: 200px; display: block; margin: auto;">
 </p>
 
 If you found this project helpful, please consider giving it a star ⭐.
