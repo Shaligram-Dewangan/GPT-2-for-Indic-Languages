@@ -2,7 +2,7 @@
 
 I trained a `GPT-2-124M` sized Language Model on 20 Billion tokens from English and Hindi language datasets. I was abel to outperform OpenAI's GPT-2 (124M) on Hindi language benchmark and approximately achieve similar performance in English language task.
 
-I am open-sourcing the the [training code](.), [model checkpoint](https://huggingface.co/Shaligram-Dewangan/GPT-2-for-Indic-Languages), [BPE tokenizer](./tokenizer/tokenizer.json), [tokenized training dataset](https://huggingface.co/datasets/Shaligram-Dewangan/FW_tokenized_20B) and [Hindi-Hellaswag](./evaluation/eval_datasets/hindi_hellaswag_val.jsonl) evaluation.
+I am open-sourcing the [training code](.), [model checkpoint](https://huggingface.co/Shaligram-Dewangan/GPT-2-for-Indic-Languages), [BPE tokenizer](./tokenizer/tokenizer.json), [tokenized training dataset](https://huggingface.co/datasets/Shaligram-Dewangan/FW_tokenized_20B) and [Hindi-Hellaswag](./evaluation/eval_datasets/hindi_hellaswag_val.jsonl) evaluation.
 
 <p align="center" width="100%">
       <img src="assets/evaluation_plot.png" alt="Evaluation Plots" style="width: 100%; min-width: 200px; display: block; margin: auto;">
